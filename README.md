@@ -13,8 +13,8 @@ This course aims to provide an in-depth understanding of DevOps practices on the
 - **/Exercise-2:** [Exercise 2 - Testing](Exercise%202_%20Testing.html)
 - **/Exercise-3:** [Exercise 3 - AWS CodeBuild](Exercise%203_%20AWS%20CodeBuild.html)
 - **/Exercise-4:** [Exercise 4 - AWS CodePipeline](Exercise%204_%20AWS%20CodePipeline.html)
-- ...
 
+  
 ## Getting Started
 
 1. Clone this repository to your local machine.
